@@ -1,0 +1,6 @@
+a = input("Enter the number 1 : ")
+b = input("Enter the number 2 : ")
+c = int(input("Enter the number 3 : "))
+d = int(input("Enter the number 4 : "))
+print("Sum of nuumber 1 and 2 : ", a+b)
+print("Sum of nuumber 3 and 4 : ", c+d)
