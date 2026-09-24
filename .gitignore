@@ -1,2 +1,3 @@
 *.json
 .venv/
+python libraries/anaconda_projects/db/project_filebrowser.db
